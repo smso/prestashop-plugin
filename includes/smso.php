@@ -27,7 +27,7 @@
 class SmsoClass
 {
 
-    public static $baseUrl = 'https://app.smso.ro/api/v1/';
+    public static $baseUrl = 'https://app.smso.ro/api/v1';
 
 
     public function __construct($token)
