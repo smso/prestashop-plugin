@@ -5,21 +5,21 @@
 <br/><br/>
 Trimite un SMS catre client in urma urmatoarelor statusuri de comanda:
 <ul>
-<li>comanda plasata cu succes
-<li>comanda livrata
-<li>comanda platita
-<li>comanda anulata
-<li>comanda finalizata
-<li>comanda returnata
+  <li>comanda plasata cu succes</li>
+  <li>comanda livrata</li>
+  <li>comanda platita</li>
+  <li>comanda anulata</li>
+  <li>comanda finalizata</li>
+  <li>comanda returnata</li>
 </ul>
 <br/>
 Pentru fiecare status de mai sus se poate seta un sablon text care poate sa includa urmatoarele variabile:
 <ul>
-<li>id comanda
-<li>referinta comenzii
-<li>numele clientului
-<li>totalul comenzii
-<li>data comenzii.
+  <li>id comanda</li>
+  <li>referinta comenzii</li>
+  <li>numele clientului</li>
+  <li>totalul comenzii</li>
+  <li>data comenzii.</li>
 </ul>
 <br/>
 Se pot activa sau dezactiva anumite statusuri, si pe fiecare status se poate seta statusul intern din Prestashop pe care se va face actiunea.
